@@ -1,0 +1,15 @@
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\Grading Application.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\Grading Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\Grading Application.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\Grading Application.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\Grading Application.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\bin\Debug\net6.0\Grading Application.exe
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\bin\Debug\net6.0\Grading Application.deps.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\bin\Debug\net6.0\Grading Application.runtimeconfig.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\bin\Debug\net6.0\Grading Application.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\bin\Debug\net6.0\Grading Application.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\Grading Application.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\refint\Grading Application.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\Grading Application.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\Grading Application.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Grading Application\Grading Application\obj\Debug\net6.0\ref\Grading Application.dll

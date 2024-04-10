@@ -1,0 +1,15 @@
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\bin\Debug\net6.0\Loops&Iterations.exe
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\bin\Debug\net6.0\Loops&Iterations.deps.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\bin\Debug\net6.0\Loops&Iterations.runtimeconfig.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\bin\Debug\net6.0\Loops&Iterations.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\bin\Debug\net6.0\Loops&Iterations.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\Loops&Iterations.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\Loops&Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\Loops&Iterations.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\Loops&Iterations.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\Loops&Iterations.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\Loops&Iterations.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\refint\Loops&Iterations.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\Loops&Iterations.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\Loops&Iterations.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\Loops&Iterations\Loops&Iterations\obj\Debug\net6.0\ref\Loops&Iterations.dll
