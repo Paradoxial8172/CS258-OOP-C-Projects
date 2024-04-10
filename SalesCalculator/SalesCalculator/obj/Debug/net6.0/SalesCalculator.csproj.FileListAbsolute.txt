@@ -1,0 +1,15 @@
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\bin\Debug\net6.0\SalesCalculator.exe
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\bin\Debug\net6.0\SalesCalculator.deps.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\bin\Debug\net6.0\SalesCalculator.runtimeconfig.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\bin\Debug\net6.0\SalesCalculator.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\bin\Debug\net6.0\SalesCalculator.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\SalesCalculator.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\SalesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\SalesCalculator.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\SalesCalculator.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\SalesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\SalesCalculator.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\refint\SalesCalculator.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\SalesCalculator.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\SalesCalculator.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\SalesCalculator\SalesCalculator\obj\Debug\net6.0\ref\SalesCalculator.dll
