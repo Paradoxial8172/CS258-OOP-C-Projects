@@ -1,0 +1,15 @@
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\bin\Debug\net6.0\arraymaker.exe
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\bin\Debug\net6.0\arraymaker.deps.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\bin\Debug\net6.0\arraymaker.runtimeconfig.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\bin\Debug\net6.0\arraymaker.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\bin\Debug\net6.0\arraymaker.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\arraymaker.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\arraymaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\arraymaker.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\arraymaker.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\arraymaker.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\arraymaker.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\refint\arraymaker.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\arraymaker.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\arraymaker.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\arraymaker\arraymaker\obj\Debug\net6.0\ref\arraymaker.dll
