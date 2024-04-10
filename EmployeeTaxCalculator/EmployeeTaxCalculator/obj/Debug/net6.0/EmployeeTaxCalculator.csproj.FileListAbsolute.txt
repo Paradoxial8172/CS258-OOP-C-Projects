@@ -1,0 +1,15 @@
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\bin\Debug\net6.0\EmployeeTaxCalculator.exe
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\bin\Debug\net6.0\EmployeeTaxCalculator.deps.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\bin\Debug\net6.0\EmployeeTaxCalculator.runtimeconfig.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\bin\Debug\net6.0\EmployeeTaxCalculator.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\bin\Debug\net6.0\EmployeeTaxCalculator.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\EmployeeTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\EmployeeTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\EmployeeTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\EmployeeTaxCalculator.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\EmployeeTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\EmployeeTaxCalculator.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\refint\EmployeeTaxCalculator.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\EmployeeTaxCalculator.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\EmployeeTaxCalculator.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\EmployeeTaxCalculator\EmployeeTaxCalculator\obj\Debug\net6.0\ref\EmployeeTaxCalculator.dll

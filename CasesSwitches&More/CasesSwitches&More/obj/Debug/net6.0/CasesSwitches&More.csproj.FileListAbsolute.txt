@@ -1,0 +1,15 @@
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\CasesSwitches&More.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\CasesSwitches&More.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\CasesSwitches&More.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\CasesSwitches&More.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\CasesSwitches&More.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\bin\Debug\net6.0\CasesSwitches&More.exe
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\bin\Debug\net6.0\CasesSwitches&More.deps.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\bin\Debug\net6.0\CasesSwitches&More.runtimeconfig.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\bin\Debug\net6.0\CasesSwitches&More.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\bin\Debug\net6.0\CasesSwitches&More.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\CasesSwitches&More.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\refint\CasesSwitches&More.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\CasesSwitches&More.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\CasesSwitches&More.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\CasesSwitches&More\CasesSwitches&More\obj\Debug\net6.0\ref\CasesSwitches&More.dll

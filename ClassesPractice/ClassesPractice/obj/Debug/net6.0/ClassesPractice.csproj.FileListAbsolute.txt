@@ -1,0 +1,15 @@
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\bin\Debug\net6.0\ClassesPractice.exe
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\bin\Debug\net6.0\ClassesPractice.deps.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\bin\Debug\net6.0\ClassesPractice.runtimeconfig.json
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\bin\Debug\net6.0\ClassesPractice.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\bin\Debug\net6.0\ClassesPractice.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ClassesPractice.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ClassesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ClassesPractice.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ClassesPractice.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ClassesPractice.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ClassesPractice.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\refint\ClassesPractice.dll
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ClassesPractice.pdb
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ClassesPractice.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Desktop\School Work\CS258\ClassesPractice\ClassesPractice\obj\Debug\net6.0\ref\ClassesPractice.dll
